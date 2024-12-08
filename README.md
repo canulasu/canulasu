@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canulasu
 - 👀 I’m interested in all things Python, Ruby, and operating systems.
 - 🌱 I’m currently learning the Ruby programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my new passion project (look at my repositories)
 - 📫 How to reach me: jakarandainnovation@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I am the creator of JakarandaCraft jakarandacraft.com
