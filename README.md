@@ -6,12 +6,12 @@
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I am interested in basketball and team sports.
 
- ____________
-< Cute little fox! >
- ------------
-         \     ,-.      .-,
-          \    |-.\ __ /.-|
-           \   \  `    `  /
+____________
+Cute little fox!
+------------
+               ,-.      .-,
+               |-.\ __ /.-|
+               \  `    `  /
                 /_     _ \
               <  _`q  p _  >
               <.._=/  \=_. >
@@ -24,9 +24,9 @@
                  | | |.;.,..__ |
                .-"";`         `|
               /    |           /
-              `-../____,..---'`
-
-
+              `-../____,..---'
+              `
+Credit to Cowsay for the fox.
 <!---
 canulasu/canulasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
