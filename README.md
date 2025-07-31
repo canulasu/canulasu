@@ -1,10 +1,31 @@
 - 👋 Hi, I’m @canulasu
-- 👀 I’m interested in all things Operating Systems and Language Design
-- 🌱 I’m currently learning go-lang and practicing on LeetCode.
-- 💞️ I’m looking to collaborate on LocalScript.
-- 📫 How to reach me: My email is canulasu@proton.me
+- 👀 I’m interested in all language design and Linux.
+- 🌱 I’m currently learning building my own programming language.
+- 💞️ I’m looking to collaborate on anything related to language or systems design.
+- 📫 How to reach me: My email is [canulasu@proton.me](mailto:canulasu@proton.me)
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: I know how to fly a Cessna 172 (I have not flown a real plane).
+- ⚡ Fun fact: I am interested in basketball and team sports.
+
+ ____________
+< Cute little fox! >
+ ------------
+         \     ,-.      .-,
+          \    |-.\ __ /.-|
+           \   \  `    `  /
+                /_     _ \
+              <  _`q  p _  >
+              <.._=/  \=_. >
+                 {`\()/`}`\
+                 {      }  \
+                 |{    }    \
+                 \ '--'   .- \
+                 |-      /    \
+                 | | | | |     ;
+                 | | |.;.,..__ |
+               .-"";`         `|
+              /    |           /
+              `-../____,..---'`
+
 
 <!---
 canulasu/canulasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
